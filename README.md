@@ -1,4 +1,4 @@
-# nmibc-class
+# classifyNMIBC
 
 This package implements a Pearson nearest-centroid classifier that assigns class labels to single samples according to the four transcriptomic UROMOL2021 classes of non-muscle-invasive bladder cancer (NMIBC): class 1, class 2a, class 2b and class 3.
 
