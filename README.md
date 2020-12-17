@@ -22,7 +22,7 @@ library(classifyNMIBC)
 
 ## Usage
 ``` {r}
-classifierNMIBC(x, minCor = .2, gene_id = c("ensembl_gene_ID", "hgnc_symbol")[1])
+classifyNMIBC(x, minCor = .2, gene_id = c("ensembl_gene_ID", "hgnc_symbol")[1])
 ```
 'x': dataframe with unique genes in rows and samples to be classified in columns (or single named vector of gene expression values).
 RNA-seq data needs to be log-transformed and micro-array data should be normalized. Gene names may be supplied as Ensembl gene IDs or HUGO gene symbols.
