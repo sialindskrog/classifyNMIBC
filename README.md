@@ -16,8 +16,8 @@ For now, please cite the following medRxiv preprint: medRxiv 2020.06.19.20054809
 You may install this package with devtools:
 ``` {r}
 library(devtools)
-devtools::install_github("sialindskrog/nmibc-class", build_vignettes = TRUE)
-library(nmibc-class)
+devtools::install_github("sialindskrog/classifyNMIBC", build_vignettes = TRUE)
+library(classifyNMIBC)
 ```
 
 ## Usage
