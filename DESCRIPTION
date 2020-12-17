@@ -1,0 +1,13 @@
+Package: classifyNMIBC
+Type: Package
+Title: Transcriptomic classification of non-muscle-invasive bladder cancer samples
+Version: 1.1.0
+Author: Sia Viborg Lindskrog 
+Maintainer: Sia Viborg Lindskrog <svl@clin.au.dk>
+Description: This package implements a Pearson nearest-centroid classifier that 
+    assigns class labels to single samples according to the four transcriptomic UROMOL2021 classes of 
+    non-muscle-invasive bladder cancer (NMIBC): class 1, class 2a, class 2b and class 3.
+License: GPL
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
