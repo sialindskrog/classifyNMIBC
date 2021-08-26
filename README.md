@@ -9,7 +9,7 @@ A smaller, example data set is provided to run the classifier.
 
 
 ## Citation 
-For now, please cite the following medRxiv preprint: medRxiv 2020.06.19.20054809; doi: https://doi.org/10.1101/2020.06.19.20054809
+Please cite Lindskrog and Prip et al. An integrated multi-omics analysis identifies prognostic molecular subtypes of non-muscle-invasive bladder cancer. Nat Commun. 2021. PMID: 33863885. DOI: 10.1038/s41467-021-22465-w
 
 
 ## Install
