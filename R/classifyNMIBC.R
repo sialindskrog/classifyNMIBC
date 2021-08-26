@@ -17,6 +17,8 @@
 #' The remaing four columns return the Pearson's correlation values for each sample and each centroid.
 #' NMIBC_Class predictions are set to NA if the minCor condition is not verified.
 #'
+#' @export
+#'
 #' @examples
 #' data(test_data)
 #' classifyNMIBC(test_data)
